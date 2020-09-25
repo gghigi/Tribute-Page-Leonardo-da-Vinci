@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <div class="jumbotron text-center">
+    
+    <h1 class="text-primary">Leonardo Da Vinci</h1>
+    <h5><em>The inventor, painter, sculptor...</em></h5>
+  
+   <div class="img-thumbnail"> 
+    <img class="img-responsive" alt="Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498)" src="https://goo.gl/88b2bk"></img>
+    <small>The Last Supper is a late 15th-century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria delle Grazie, Milan. It is one of the world's most famous paintings.</small>
+    </div>
+  
+     
+  
+<h3>Here's a timeline of Leonardo Da Vinci's life:</h3>
+ <div class="text-left"> 
+<ul>
+  <li><strong>1452–1466 - Childhood</strong>: Leonardo was born on 15 April 1452 in the Tuscan hill town of Vinci, in the lower valley of the Arno river in the territory of the Medici-ruled Republic of Florence. </li>
+  <li><strong>1466–76 - Verrocchio's workshop</strong>: In 1466, at the age of fourteen, Leonardo was apprenticed to the artist Andrea di Cione, known as Verrocchio, whose bottega (workshop) was "one of the finest in Florence".
+</li>
+  <li><strong>1476–1513 - Professional life</strong>: In 1478, he left Verrocchio's studio and was no longer resident at his father's house. One writer, the "Anonimo" Gaddiano, claims that in 1480 Leonardo was living with the Medici and working in the Garden of the Piazza San Marco in Florence, a Neo-Platonic academy of artists, poets and philosophers that the Medici had established.
+</li>
+  <li><strong>1513–1519 - Old age</strong>: From September 1513 to 1516, under Pope Leo X, Leonardo spent much of his time living in the Belvedere in the Vatican in Rome, where Raphael and Michelangelo were both active at the time. In 1516, he entered Francis' service, being given the use of the manor house Clos Lucé, now a public museum, near the king's residence at the royal Château d'Amboise. He spent the last three years of his life here, accompanied by his friend and apprentice, Count Francesco Melzi, and supported by a pension totalling 10,000 scudi. Leonardo died at Clos Lucé, on 2 May 1519.
+  </li>
+</ul>
+  </div>
+
+ <blockquote>
+  <p>Simplicity is the ultimate sophistication.
+As a well-spent day brings happy sleep, so a life well spent brings happy death.<br>
+    Learning never exhausts the mind.</br></p>
+   
+<footer><em>Leonardo Da Vinci</em></footer>
+ </blockquote>
+  <div class="text-center">
+<h5>You can read more about Leonardo Da Vinci <a href:"https://en.wikipedia.org/wiki/Leonardo_da_Vinci" target="_blank">here</a>.<h5>
+  </div>
+ </div> 
+</div>
+
